@@ -1,0 +1,1 @@
+Self code and build GPT from scratch with AK watch along 
